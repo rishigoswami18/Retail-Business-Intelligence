@@ -16,10 +16,10 @@ venv/
 requirements.txt
 
 # Charts/Visualizations
-visualizations/eda/*
-!visualizations/eda/.gitkeep
-visualizations/rfm/*
-!visualizations/rfm/.gitkeep
+visualizations/eda/*.png
+visualizations/rfm/*.png
+visualizations/eda/.gitkeep
+visualizations/rfm/.gitkeep
 
 # OS
 .DS_Store
