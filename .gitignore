@@ -1,0 +1,26 @@
+# Data Files
+data/raw/
+data/cleaned/*
+!data/cleaned/.gitkeep
+data/rfm/*
+!data/rfm/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+requirements.txt
+
+# Charts/Visualizations
+visualizations/eda/*
+!visualizations/eda/.gitkeep
+visualizations/rfm/*
+!visualizations/rfm/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
